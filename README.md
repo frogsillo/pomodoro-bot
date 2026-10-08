@@ -1,8 +1,9 @@
-# 🍅 Pomodoro Bot para Discord
+# Pomodoro Bot para Discord con la voz de la tita (cualquier audio en realidad pero mi finalidad es escucharla)
 
-Bot Pomodoro con SQLite, estadísticas, sonido personalizado, botones y modo prueba.
+Bot Pomodoro con SQLite con la voz de mi xanxita para estudiar, estadísticas, sonido personalizado, botones y modo prueba.
 
 ## Ciclo
+cada 4 ciclos de 25 minutos de estudio y 5 de descanso toma un descanso de 15 minutos
 25/5 → 25/5 → 25/5 → 25/15 → repite.
 
 ## Comandos
