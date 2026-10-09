@@ -1,4 +1,4 @@
-# Pomodoro Bot para Discord con la voz de la tita (cualquier audio en realidad pero mi finalidad es escucharla)
+# Pomodoro Bot para Discord con la voz de la tita (cualquier audio en realidad pero mi finalidad esescucharla)
 
 Bot Pomodoro con SQLite con la voz de mi xanxita para estudiar, estadísticas, sonido personalizado, botones y modo prueba.
 igualmente fue hecho casi en totalidad con ia estoy probando promt interfaz y comandos de linux.
@@ -20,7 +20,7 @@ cada 4 ciclos de 25 minutos de estudio y 5 de descanso toma un descanso de 15 mi
 - `/pomodoro sonido eliminar`
 - `/pomodoro ayuda`
 
-## Modo prueba
+## Modo prueba(comandos)
 En `.env`: `POMODORO_TEST=1`. Duraciones: 10s / 5s / 8s.
 
 ## Instalación (Pop!_OS)
